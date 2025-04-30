@@ -98,7 +98,7 @@ header {
     z-index: 3;
     padding: 10px;
     margin-top: 10rem;
-    margin-right: 10%;
+    margin-right: 12%;
     margin-left: 10%;
 }
 
@@ -117,7 +117,7 @@ header {
     z-index: 2;
     background-color: #ffffff;
     box-shadow: 0rem 1rem 1rem rgba(0, 0, 0, 0.1);
-    width: 50%;
+    width: 70%;
     min-height: 63rem;
     top: 10rem;
     right: 10%
